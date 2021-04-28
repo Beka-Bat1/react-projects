@@ -10,11 +10,11 @@
 
 #### useReducer and useContext
 
-14. Cart [x]
+- [x] 14. Cart
 
 #### React Router and useCallback
 
-15. Cocktails [x]
+- [x] 15. Cocktails
 
 ## Advanced Projects (Course Exclusive)
 
