@@ -1,0 +1,15 @@
+{
+    "emmet.excludeLanguages": [
+
+
+        "markdown"
+    ],
+    "emmet.preferences": {
+    
+    },
+    "emmet.syntaxProfiles": {
+    
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true
+}
